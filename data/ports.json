@@ -1,0 +1,151 @@
+{
+  "indianPorts": [
+    {
+      "code": "INMUN",
+      "name": "Mundra Port",
+      "state": "Gujarat",
+      "lat": 22.74,
+      "lng": 69.70,
+      "type": "Container & Bulk Maritime Gateway",
+      "berths": 24,
+      "draft": "17.5m Deep Water",
+      "connectivity": "Direct rail siding, Western Dedicated Freight Corridor"
+    },
+    {
+      "code": "INNSA",
+      "name": "JNPT (Nhava Sheva)",
+      "state": "Maharashtra",
+      "lat": 18.95,
+      "lng": 72.95,
+      "type": "Major Container Hub",
+      "berths": 16,
+      "draft": "14.0m",
+      "connectivity": "Direct access to Mumbai expressway & dry ports"
+    },
+    {
+      "code": "INMAA",
+      "name": "Chennai Port",
+      "state": "Tamil Nadu",
+      "lat": 13.08,
+      "lng": 80.29,
+      "type": "East Coast Maritime Gateway",
+      "berths": 14,
+      "draft": "15.0m",
+      "connectivity": "Gateway to Far East and ASEAN trade lanes"
+    },
+    {
+      "code": "INCOK",
+      "name": "Cochin Port (ICTT Vallarpadam)",
+      "state": "Kerala",
+      "lat": 9.96,
+      "lng": 76.27,
+      "type": "Deepwater Transshipment Hub",
+      "berths": 10,
+      "draft": "14.5m",
+      "connectivity": "Closest Indian port to international East-West sea lanes"
+    },
+    {
+      "code": "INCCU",
+      "name": "Kolkata / Haldia Port",
+      "state": "West Bengal",
+      "lat": 22.57,
+      "lng": 88.36,
+      "type": "Riverine & Ocean Gateway",
+      "berths": 12,
+      "draft": "12.0m",
+      "connectivity": "Strategic gateway for Jute, agro products and minerals"
+    }
+  ],
+  "destinationPorts": [
+    {
+      "code": "NLRTM",
+      "name": "Port of Rotterdam",
+      "country": "Netherlands",
+      "region": "Western Europe",
+      "lat": 51.95,
+      "lng": 4.13,
+      "transitDays": { "INMUN": 19, "INNSA": 21, "INMAA": 26, "INCOK": 18, "INCCU": 28 },
+      "primaryCommodities": ["Agricultural Spices", "Basmati Rice", "Brass Turned Parts", "Areca Tableware"]
+    },
+    {
+      "code": "AEJEA",
+      "name": "Port of Jebel Ali (Dubai)",
+      "country": "United Arab Emirates",
+      "region": "Middle East / GCC",
+      "lat": 25.01,
+      "lng": 55.06,
+      "transitDays": { "INMUN": 3, "INNSA": 4, "INMAA": 9, "INCOK": 6, "INCCU": 11 },
+      "primaryCommodities": ["Basmati Rice", "Spices", "Engineering Hardware", "Bentonite Clay"]
+    },
+    {
+      "code": "SGSIN",
+      "name": "Port of Singapore",
+      "country": "Singapore",
+      "region": "Southeast Asia / APAC",
+      "lat": 1.29,
+      "lng": 103.85,
+      "transitDays": { "INMUN": 10, "INNSA": 9, "INMAA": 5, "INCOK": 6, "INCCU": 7 },
+      "primaryCommodities": ["Oilseeds", "Spices", "Industrial Minerals", "Areca Tableware"]
+    },
+    {
+      "code": "USNYC",
+      "name": "Port of New York & New Jersey",
+      "country": "United States",
+      "region": "North America (East Coast)",
+      "lat": 40.67,
+      "lng": -74.13,
+      "transitDays": { "INMUN": 24, "INNSA": 26, "INMAA": 30, "INCOK": 23, "INCCU": 33 },
+      "primaryCommodities": ["Certified Organic Spices", "Basmati Rice", "Eco-friendly Tableware", "Cast Iron Fittings"]
+    },
+    {
+      "code": "USLGB",
+      "name": "Port of Long Beach / Los Angeles",
+      "country": "United States",
+      "region": "North America (West Coast)",
+      "lat": 33.75,
+      "lng": -118.21,
+      "transitDays": { "INMUN": 28, "INNSA": 30, "INMAA": 26, "INCOK": 27, "INCCU": 29 },
+      "primaryCommodities": ["Areca Palm Tableware", "Jute Products", "Precision Engineering Components"]
+    },
+    {
+      "code": "DEHAM",
+      "name": "Port of Hamburg",
+      "country": "Germany",
+      "region": "Central Europe",
+      "lat": 53.53,
+      "lng": 9.96,
+      "transitDays": { "INMUN": 21, "INNSA": 23, "INMAA": 27, "INCOK": 20, "INCCU": 30 },
+      "primaryCommodities": ["High-Curcumin Turmeric", "Black Pepper", "Brass CNC Components"]
+    },
+    {
+      "code": "GBFXT",
+      "name": "Port of Felixstowe",
+      "country": "United Kingdom",
+      "region": "United Kingdom",
+      "lat": 51.95,
+      "lng": 1.31,
+      "transitDays": { "INMUN": 20, "INNSA": 22, "INMAA": 26, "INCOK": 19, "INCCU": 29 },
+      "primaryCommodities": ["Basmati Rice", "Spices & Herbs", "Sustainable Bags", "Foundry Goods"]
+    },
+    {
+      "code": "ZADUR",
+      "name": "Port of Durban",
+      "country": "South Africa",
+      "region": "Southern Africa",
+      "lat": -29.87,
+      "lng": 31.02,
+      "transitDays": { "INMUN": 14, "INNSA": 15, "INMAA": 18, "INCOK": 13, "INCCU": 20 },
+      "primaryCommodities": ["Basmati & Non-Basmati Rice", "Engineering Goods", "Industrial Bentonite"]
+    },
+    {
+      "code": "BRSSZ",
+      "name": "Port of Santos",
+      "country": "Brazil",
+      "region": "Latin America",
+      "lat": -23.96,
+      "lng": -46.30,
+      "transitDays": { "INMUN": 28, "INNSA": 29, "INMAA": 33, "INCOK": 27, "INCCU": 35 },
+      "primaryCommodities": ["Agricultural Spices", "Industrial Minerals", "Cast Pipe Fittings"]
+    }
+  ]
+}

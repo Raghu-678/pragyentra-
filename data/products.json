@@ -1,0 +1,316 @@
+[
+  {
+    "id": "PRD-AGR-001",
+    "name": "Premium Indian 1121 Basmati Rice (Extra Long Grain)",
+    "category": "Agricultural Commodities",
+    "subCategory": "Grains & Cereals",
+    "hsCode": "1006.30.20",
+    "origin": "Punjab & Haryana, India",
+    "description": "Aromatic, aged extra-long slender grain Basmati rice recognized worldwide for supreme elongation (up to 22mm on cooking), delightful natural aroma, and non-sticky fluffy texture.",
+    "specifications": {
+      "Grain Length": "8.35 mm - 8.40 mm (Raw basis)",
+      "Purity": "95% minimum",
+      "Moisture Content": "12.5% maximum",
+      "Admixture": "5% maximum",
+      "Broken Ratio": "1% maximum",
+      "Crop Year": "Current / Well-Aged (1-2 years)"
+    },
+    "gradesAvailable": ["White Sella", "Golden Sella", "Steam Basmati", "Raw Basmati"],
+    "moq": "1 x 20' FCL (Approx. 24 - 25 Metric Tons)",
+    "packagingOptions": [
+      "5 kg, 10 kg, 20 kg, 25 kg, 50 kg PP / Non-Woven / BOPP Bags",
+      "Custom buyer brand printing & private labelling available"
+    ],
+    "documentationAvailable": [
+      "Certificate of Origin (Chamber of Commerce)",
+      "Phytosanitary Certificate (Plant Quarantine)",
+      "FSSAI Export Certificate",
+      "Fumigation & Inspection Certificate (SGS / Intertek upon request)",
+      "Bill of Lading & Commercial Invoice / Packing List"
+    ],
+    "portOfLoading": "Mundra / JNPT (Nhava Sheva), India",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "PRD-AGR-002",
+    "name": "High-Curcumin Organic Turmeric Finger & Powder",
+    "category": "Organic Spices & Herbs",
+    "subCategory": "Whole & Ground Spices",
+    "hsCode": "0910.30.20",
+    "origin": "Salem (Tamil Nadu) & Nizamabad (Telangana), India",
+    "description": "Selected premium grade dry turmeric fingers and finely pulverised golden turmeric powder containing high curcumin content with intensive aroma, free of chemical additives and artificial colorants.",
+    "specifications": {
+      "Curcumin Content": "3.5% to 5.0% guaranteed (HPLC tested)",
+      "Moisture": "9.0% - 10.0% maximum",
+      "Total Ash": "7.0% maximum",
+      "Volatile Oil": "3.5% minimum",
+      "Extraneous Matter": "0.5% maximum"
+    },
+    "gradesAvailable": ["Salem Double Polished Fingers", "Nizamabad Single Polished", "Rajapore Bold", "Ultra-Fine Powder 80-100 Mesh"],
+    "moq": "1 x 20' FCL (Approx. 18 Metric Tons)",
+    "packagingOptions": [
+      "25 kg / 50 kg Multi-layer Kraft Paper Bags with inner PE liner",
+      "25 kg / 50 kg Jute Bags",
+      "Vacuum packaging for retail cartons upon request"
+    ],
+    "documentationAvailable": [
+      "Spices Board India Certificate of Quality",
+      "Certificate of Analysis (COA - Heavy Metals, Pesticides, Curcumin %)",
+      "Phytosanitary Certificate",
+      "Non-GMO Declaration",
+      "Certificate of Origin"
+    ],
+    "portOfLoading": "Chennai / JNPT, India",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "PRD-AGR-003",
+    "name": "Malabar Bold Black Pepper (Tellicherry Garbled Extra Bold)",
+    "category": "Organic Spices & Herbs",
+    "subCategory": "Whole Spices",
+    "hsCode": "0904.11.30",
+    "origin": "Wayanad (Kerala) & Coorg (Karnataka), India",
+    "description": "Sun-dried Tellicherry Garbled Extra Bold (TGSEB) black pepper with intense pungency, rich piperine concentration, and robust floral aroma, harvested sustainably from the Western Ghats.",
+    "specifications": {
+      "Bulk Density": "550 g/L - 580 g/L (GBL / TGSEB)",
+      "Piperine Content": "5.5% - 6.5% minimum",
+      "Moisture": "11.0% maximum",
+      "Foreign Matter": "0.25% maximum",
+      "Berry Size": "4.25 mm - 4.75 mm diameter (Grade 1)"
+    },
+    "gradesAvailable": ["TGSEB (Tellicherry Garbled Extra Bold)", "TGL (Tellicherry Garbled)", "MG1 (Malabar Garbled Grade 1)"],
+    "moq": "1 x 20' FCL (Approx. 15 Metric Tons) / LCL accepted for test consignments",
+    "packagingOptions": [
+      "25 kg / 50 kg PP woven sacks with poly liner",
+      "Food-grade multiwall paper sacks with moisture barrier"
+    ],
+    "documentationAvailable": [
+      "Spices Board Cleared Quality Certificate",
+      "Aflatoxin & Ochratoxin Testing Report",
+      "Phytosanitary Clearance",
+      "Certificate of Origin"
+    ],
+    "portOfLoading": "Cochin / Tuticorin, India",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "PRD-AGR-004",
+    "name": "Natural White Sesame Seeds (Premium Hulled 99.98% Auto-Sortex)",
+    "category": "Agricultural Commodities",
+    "subCategory": "Oilseeds",
+    "hsCode": "1208.90.00",
+    "origin": "Gujarat & Rajasthan, India",
+    "description": "Electrostatically cleaned and machine sortexed hulled white sesame seeds with uniform pearly color, sweet nutty taste, and strict pathogen-free processing standards.",
+    "specifications": {
+      "Purity": "99.98% Sortex Cleaned",
+      "Moisture": "4.5% maximum",
+      "Oil Content": "48% - 50% minimum",
+      "FFA (Free Fatty Acids)": "1.5% maximum",
+      "Salmonella": "Absent in 25g"
+    },
+    "gradesAvailable": ["Hulled 99.98% Sortex", "Hulled 99.95%", "Natural White 99/1", "Toasted Sesame Seeds"],
+    "moq": "1 x 20' FCL (Approx. 19 Metric Tons)",
+    "packagingOptions": [
+      "25 kg / 50 kg 4-ply paper bags",
+      "Polypropylene bags with inner liner",
+      "500 kg / 1000 kg Jumbo Big Bags"
+    ],
+    "documentationAvailable": [
+      "Certificate of Origin",
+      "Microbiological Lab Report (Salmonella/E.Coli Negative)",
+      "Phytosanitary Certificate",
+      "Certificate of Analysis"
+    ],
+    "portOfLoading": "Mundra / Pipavav, India",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1546548970-71785318a17b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "PRD-AGR-005",
+    "name": "Hot Stemless Red Chilli (Teja S17 & Sanam S4)",
+    "category": "Organic Spices & Herbs",
+    "subCategory": "Whole Spices",
+    "hsCode": "0904.21.10",
+    "origin": "Guntur (Andhra Pradesh) & Byadgi (Karnataka), India",
+    "description": "World-renowned sun-dried Indian red chillies with brilliant natural red color (ASTA) and robust heat index (SHU), hand-stemmed and graded for zero fungal contamination.",
+    "specifications": {
+      "Heat Level (SHU)": "40,000 - 80,000 SHU (Teja S17) / 15,000 - 25,000 SHU (Sanam S4)",
+      "Color Value": "50 - 90 ASTA Units",
+      "Moisture": "10% maximum",
+      "Foreign Material": "0.5% maximum",
+      "Loose Seeds": "2% maximum"
+    },
+    "gradesAvailable": ["Teja S17 Stemless", "Sanam S4 Stemless", "Byadgi Wrinkled (High Color Low Heat)", "Crushed Chilli Flakes"],
+    "moq": "1 x 40' HC Container (Approx. 14 Metric Tons)",
+    "packagingOptions": [
+      "5 kg, 10 kg, 25 kg Gunny / Jute Bags",
+      "Carton boxes with inner polyethylene liner"
+    ],
+    "documentationAvailable": [
+      "Spices Board Mandatory Quality Certification",
+      "Sudan Dye 1-4 Free Certificate",
+      "Aflatoxin Certified Lab Analysis",
+      "Phytosanitary Certificate"
+    ],
+    "portOfLoading": "Chennai / Krishnapatnam, India",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "PRD-ECO-001",
+    "name": "100% Biodegradable Areca Palm Leaf Tableware & Plates",
+    "category": "Eco-Friendly Products",
+    "subCategory": "Sustainable Packaging & Tableware",
+    "hsCode": "4602.19.90",
+    "origin": "Shimoga & Dakshina Kannada, Karnataka, India",
+    "description": "Crafted from naturally fallen sheath leaves of the Areca palm tree. 100% chemical-free, compostable, oven-safe up to 200°C, microwaveable, and liquid-resistant for eco-conscious food service.",
+    "specifications": {
+      "Material": "Natural Areca Betel Nut Tree Leaf (Fallen Sheath)",
+      "Biodegradability": "Composts within 60 to 90 days naturally",
+      "Thermal Resistance": "-20°C to +200°C (Microwave & Freezer Safe)",
+      "Chemicals & Binders": "Zero chemical treatment or artificial coatings",
+      "Shapes & Sizes": "Round 6\", 8\", 10\", 12\"; Square 6\", 8\", 10\"; Compartment Trays"
+    },
+    "gradesAvailable": ["Grade A Export (Clean, uniform grain, no dark spots)", "Grade B Commercial"],
+    "moq": "1 x 20' FCL (Approx. 100,000 to 120,000 pieces assortable)",
+    "packagingOptions": [
+      "Shrink wrapped packs of 10 / 25 pieces with food-grade desiccant",
+      "Corrugated 5-ply export master cartons with moisture barrier lining"
+    ],
+    "documentationAvailable": [
+      "Fumigation Certificate (ISPM-15 compliant)",
+      "Food Contact Safety Test (FDA / EU 10/2011 compliance reports)",
+      "Certificate of Origin",
+      "Phytosanitary Certificate"
+    ],
+    "portOfLoading": "Mangalore / Chennai, India",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "PRD-ECO-002",
+    "name": "Heavy-Duty Golden Jute & Organic Cotton Shopping Sacks",
+    "category": "Eco-Friendly Products",
+    "subCategory": "Textiles & Sustainable Packaging",
+    "hsCode": "6305.10.00",
+    "origin": "West Bengal, India",
+    "description": "High-tensile natural golden jute fiber bags and organic canvas tote bags tailored for retail chains, supermarkets, and green promotional packaging.",
+    "specifications": {
+      "Fabric Weight": "280 GSM to 420 GSM Natural Jute / 10 oz - 14 oz Cotton Canvas",
+      "Lamination": "Food-grade LDPE inner lamination or plant-based starch coating",
+      "Handle Options": "Padded cotton rope, self-fabric tape, or bamboo grip",
+      "Printing Method": "AZO-free water-based screen printing or digital heat transfer",
+      "Tensile Capacity": "15 kg - 25 kg load tested"
+    },
+    "gradesAvailable": ["Natural Bleached", "Raw Golden Unbleached", "Dyed Eco-Friendly Colors"],
+    "moq": "5,000 pieces",
+    "packagingOptions": [
+      "50 to 100 pcs packed in heavy-duty poly-wrapped master export cartons",
+      "Wooden palletized bundling available"
+    ],
+    "documentationAvailable": [
+      "AZO-Free Dye Certification",
+      "Certificate of Origin",
+      "Export Packing List and Commercial Invoices"
+    ],
+    "portOfLoading": "Kolkata / Haldia, India",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1597484662317-9bd7bdda2907?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "PRD-ENG-001",
+    "name": "Precision CNC Brass Turned Components & Cable Glands",
+    "category": "Engineering Goods",
+    "subCategory": "Industrial Hardware & Electrical Fittings",
+    "hsCode": "7412.20.00",
+    "origin": "Jamnagar (Brass Capital of India), Gujarat",
+    "description": "High-precision brass fasteners, flare fittings, inserts, terminal connectors, and industrial cable glands machined to tight tolerances (±0.01mm) according to ISO, DIN, and ASTM specifications.",
+    "specifications": {
+      "Material Grade": "CuZn39Pb3 (CW614N), IS 319 Free Cutting Brass, C36000",
+      "Thread Types": "Metric, NPT, BSP, BSPT, UNC, UNF",
+      "Tolerance": "Within ±0.01 mm to ±0.03 mm",
+      "Surface Finish": "Natural Brass, Nickel Plated, Chrome Plated, Tin Plated",
+      "RoHS Compliance": "Strict compliance with EU RoHS & REACH regulations"
+    },
+    "gradesAvailable": ["Class A High Precision CNC Turned", "Cold Forged & Thread Rolled"],
+    "moq": "50,000 pieces or minimum 1,500 kg total consignment weight",
+    "packagingOptions": [
+      "Inner poly-bags with anti-tarnish VCI paper",
+      "Corrugated heavy-duty cartons palletized on ISPM-15 heat-treated pallets"
+    ],
+    "documentationAvailable": [
+      "Mill Test Certificate (EN 10204 3.1)",
+      "RoHS & REACH Compliance Declarations",
+      "Dimensional Inspection Report (CMM tested)",
+      "Certificate of Origin"
+    ],
+    "portOfLoading": "Mundra / Pipavav / Kandla, India",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "PRD-ENG-002",
+    "name": "Ductile Iron & Cast Iron Pipe Fittings & Flanges",
+    "category": "Engineering Goods",
+    "subCategory": "Piping & Flow Control",
+    "hsCode": "7307.19.00",
+    "origin": "Howrah & Coimbatore, India",
+    "description": "Heavy industrial ductile iron (GGG50 / EN-GJS-500-7) pipe couplings, flange adaptors, dismantling joints, and gate valves designed for potable water, municipal sewage, and industrial infrastructure.",
+    "specifications": {
+      "Nominal Diameter": "DN 50 mm to DN 1200 mm",
+      "Pressure Rating": "PN 10, PN 16, PN 25, Class 150",
+      "Coating": "Fusion Bonded Epoxy (FBE) 250 - 300 microns (WRAS approved)",
+      "Standard Compliance": "EN 545, EN 598, ISO 2531, ANSI/AWWA C110/A21.10",
+      "Gasket Material": "EPDM / NBR Potable Water Certified"
+    },
+    "gradesAvailable": ["Ductile Iron EN-GJS-500-7", "Grey Cast Iron GG25"],
+    "moq": "1 x 20' FCL (Approx. 20 - 22 Metric Tons)",
+    "packagingOptions": [
+      "Wooden cases / steel-strapped crates on ISPM-15 fumigated solid wood skids",
+      "Plastic thread protective caps and flange face guards"
+    ],
+    "documentationAvailable": [
+      "Hydrostatic Pressure Test Certificates",
+      "Chemical & Mechanical Test Reports",
+      "WRAS / Potable Water Coating Compliance",
+      "Third-party Inspection by Lloyd's / SGS / DNV"
+    ],
+    "portOfLoading": "Kolkata / Chennai, India",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504917599217-d4dc5ebe6122?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "PRD-MIN-001",
+    "name": "Industrial Activated Sodium Bentonite Clay",
+    "category": "Natural Minerals",
+    "subCategory": "Industrial Minerals & Absorbents",
+    "hsCode": "2508.10.00",
+    "origin": "Kutch & Bhavnagar, Gujarat, India",
+    "description": "High-yield natural sodium bentonite with superior montmorillonite content, elevated swelling index, thermal durability, and optimal water absorption for oil drilling, foundry bonding, and civil waterproofing.",
+    "specifications": {
+      "Montmorillonite Content": "85% - 90% minimum",
+      "Swelling Volume": "28 ml/2g - 35 ml/2g",
+      "Viscosity (API/OCMA)": "15 cps minimum at 600 RPM",
+      "Moisture": "10% - 12% maximum",
+      "Fineness": "Pass through 200 Mesh: 85% - 90% minimum"
+    },
+    "gradesAvailable": ["API 13A Section 9 (Oilfield Drilling)", "Foundry Binding Grade", "Civil Engineering / Diaphragm Wall Grade", "Cat Litter Granules"],
+    "moq": "1 x 20' FCL (Approx. 24 - 26 Metric Tons)",
+    "packagingOptions": [
+      "25 kg / 50 kg HDPE Bags with inner liner",
+      "1000 kg / 1250 kg Jumbo Bags (Big Bags) with discharge spout"
+    ],
+    "documentationAvailable": [
+      "API Certification & Lab Rheology Test Reports",
+      "Material Safety Data Sheet (MSDS / SDS)",
+      "Certificate of Analysis",
+      "Certificate of Origin"
+    ],
+    "portOfLoading": "Mundra / Kandla, India",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=800&q=80"
+  }
+]
